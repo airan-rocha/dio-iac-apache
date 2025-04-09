@@ -2,7 +2,7 @@
 
 A finalidade desse projeto é para fins acadêmicos. A sua proposta é a criação de um arquivo .sh para automatizar a instalação e configuração de um servidor apache no linux.
 
-Ao executar o arquivo iac-install-apache.sh através do terminal da sua distro Linux, o servidor linux será atualizado e sera instalado o apache2, o unzip e será baixado os arquivos de um site diretamente do Github.
+Ao executar o arquivo iac-install-apache.sh através do terminal da sua distro Linux, o servidor linux será atualizado e será instalado o apache2, o unzip e será baixado os arquivos de um site diretamente do Github.
 
 Para exetucar esse aquivo primeiramente é ncessário baixá-lo, depois pelo terminal, dar a permissão para ele ser excutado, conforme o comando abaixo:
 
